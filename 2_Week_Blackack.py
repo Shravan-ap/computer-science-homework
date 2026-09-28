@@ -1,3 +1,4 @@
+# Python Blackjack Against the BOT
 import random
 
 suits = ["♠", "♥", "♦", "♣"]
